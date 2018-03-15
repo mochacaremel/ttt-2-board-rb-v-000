@@ -1,5 +1,5 @@
 # Define the variable board below.
-board = "[123456789]" 
+board = [123456789] 
 row = "[012345678]"
 
 # Position 1: Left
