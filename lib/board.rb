@@ -1,6 +1,6 @@
 # Define the variable board below.
-board = "["1", "2", "3"]"
-row = ["0 ", "1 ", "2 "]
+board = "["1", "2", "3" "4" "5" "6" "7" "8" "9"]"
+row = ["0", "1", "2" "3" "4" "5" "6" "7" "8" "9"]
 
 # Position 1: Left
 row[0]
